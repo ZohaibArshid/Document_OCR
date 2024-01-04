@@ -1,0 +1,15 @@
+PyPDF2
+pdfplumber
+fastapi
+uvicorn
+easyocr 
+python-magic-bin==0.4.14
+reportlab
+torch
+torchvision 
+torchaudio
+docx2pdf
+openpyxl
+python-docx
+textract
+pdfminer
