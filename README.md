@@ -9,7 +9,7 @@ Follow the steps below to get started with this project:
 ### Installation
 1. Clone the repository
 ```
-git clone https://github.com/MuhammadWaqar621/Document-Ocr.git
+git clone [https://github.com/ZohaibArshid/Document_OCR.git]
 ```
 
 2. Environment
