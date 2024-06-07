@@ -1,0 +1,31 @@
+# sudo apt install pandoc
+# sudo apt-get install texlive-xetex
+PyPDF2
+pdfplumber
+fastapi[all]
+uvicorn
+easyocr 
+# python-magic-bin==0.4.14
+reportlab
+torch
+torchvision 
+torchaudio
+docx2pdf
+openpyxl
+python-docx
+# textract
+pdfminer
+pydub
+numpy
+python-multipart
+langdetect
+# opencv-python==4.8.0.74
+doc2docx
+doc2pdf
+PyMuPDF
+requests
+pypandoc
+lmdb
+fastapi[all]
+pdflatex
+pandoc
